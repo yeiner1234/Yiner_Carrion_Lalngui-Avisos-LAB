@@ -16,10 +16,19 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
+      "package": "pe.edu.pam.yeiner_c.pushlab",
+      "googleServicesFile": "./google-services.json",
       "predictiveBackGestureEnabled": false
     },
+    "plugins": ["expo-notifications"],
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f61970f-71f5-4ee2-89fa-19118d78e683"
+      }
+    },
+    "owner": "yeiner01"
   }
 }

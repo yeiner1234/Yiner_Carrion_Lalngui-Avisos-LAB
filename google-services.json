@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475271411914",
+    "project_id": "pam-push--carrion-lalangui-y",
+    "storage_bucket": "pam-push--carrion-lalangui-y.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475271411914:android:9725e13b37230941a31c33",
+        "android_client_info": {
+          "package_name": "pe.edu.pam.yeiner_c.pushlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGK0lGEZWTNvWdOXw2r-IRL79H2kQ3XUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
